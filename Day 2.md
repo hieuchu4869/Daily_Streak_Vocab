@@ -1,0 +1,15 @@
+- [x] Loss-making
+- [x] trawler
+- [x] reconcile
+- [x] inscrutable
+- [ ] discordant
+- [ ] workmanship
+- [ ] deckhand
+- [ ] garrison
+- [ ] adjutant
+- [ ] tribesman
+- [ ] scent of sth
+- [ ] fistful sth
+- [ ] tribe
+- [ ] interior
+- [ ] hut  
