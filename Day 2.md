@@ -2,11 +2,11 @@
 - [x] trawler
 - [x] reconcile
 - [x] inscrutable
-- [ ] discordant
-- [ ] workmanship
-- [ ] deckhand
-- [ ] garrison
-- [ ] adjutant
+- [x] discordant
+- [x] workmanship
+- [x] deckhand
+- [x] garrison
+- [x] adjutant
 - [ ] tribesman
 - [ ] scent of sth
 - [ ] fistful sth
